@@ -1,0 +1,1 @@
+# Determination-of-the-calculated-load-by-average-power
