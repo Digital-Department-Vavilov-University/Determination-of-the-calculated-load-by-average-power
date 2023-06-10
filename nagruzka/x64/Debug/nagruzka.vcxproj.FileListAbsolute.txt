@@ -1,0 +1,16 @@
+E:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.AssemblyReference.cache
+E:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.SuggestedBindingRedirects.cache
+E:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.MyForm.resources
+E:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.AssemblyReference.cache
+C:\Users\Vladimir\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.MyForm.resources
+C:\Users\Vladimir\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.GenerateResource.cache
+D:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.AssemblyReference.cache
+D:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.SuggestedBindingRedirects.cache
+D:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.MyForm.resources
+D:\Работа\ДОП\Системы ИИ\Модуль 5\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.GenerateResource.cache
+C:\Users\Vova\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.AssemblyReference.cache
+C:\Users\Vova\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vova\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.MyForm.resources
+C:\Users\Vova\source\repos\nagruzka\nagruzka\x64\Debug\nagruzka.vcxproj.GenerateResource.cache
