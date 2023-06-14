@@ -15,6 +15,7 @@
 Для практических целей с достаточной точностью
 можно принимать Кф = 1-1,2. При этом значение уменьшается по направлению
 от низших ступеней СЭС к высшим.
+
 ![Пример работы](https://github.com/Digital-Department-Vavilov-University/Determination-of-the-calculated-load-by-average-power/assets/135830345/83ffde96-c24b-459f-b767-603fa6c64eae)
 
 
